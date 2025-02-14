@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome to My GitHub! 🎵💻⚡  
 
-<!--
-**MabaRod/MabaRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+Hey there! I'm a **musician**, a **junior programmer**, and an **electronic engineering undergraduate** passionate about both hardware and software. I love building things, whether it's a song, a circuit, or a piece of code.  
 
-Here are some ideas to get you started:
+## Tech Stack  
+- **Programming Languages**: C, Python, JavaScript  
+- **Interests**: Embedded systems, music tech, and full-stack development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects  
+I work on a mix of **software development**, **hardware-related projects**, and **music-related coding experiments**. Stay tuned for updates!  
+
+## Let's Connect  
+- 🎸 Music & Tech Enthusiast  
+- 🛠️ Exploring the intersection of electronics and software  
+- 🔍 Always learning something new!  
+
+## Social Media  
+📌 Connect with me:  
+[Instagram](https://www.instagram.com/maba_rod/?next=%2F)  
+
+Feel free to check out my repositories and reach out! 🚀  
