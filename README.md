@@ -1,4 +1,4 @@
-# The Mabagithub
+
 
 ## About Me  
 Hey there! I'm a **musician**, a **junior programmer**, and an **electronic engineering undergraduate** passionate about both hardware and software. I love building things, whether it's a song, a circuit, or a piece of code.  
